@@ -1,7 +1,5 @@
 # Azure-Cloud-SIEM-Automated-Incident-Response-SOC-Simulator
 
-# Cloud SIEM & Automated Incident Response (SOC Simulator)
-
 ## Objective
 To architect a cloud-based SOC environment to detect and automatically remediate brute-force attacks.
 
